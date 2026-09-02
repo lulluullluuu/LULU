@@ -1,0 +1,33 @@
+{
+  "colorPalette": "rose-pink",
+  "glassSurfaces": false,
+  "glassmorphic": true,
+  "entries": [
+    {
+      "id": "20260902-001910-xpeq",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": {
+        "id": "FFA46CED-430F-E811-81A1-12C4323DADC8",
+        "name": "Alice Ever Garden",
+        "tag": "AEG"
+      },
+      "dateStart": "2026-09-01T16:19:10.000Z",
+      "dateEnd": "2026-09-01T16:23:22.321Z",
+      "dateLabel": "2026/9/2 上午12:19:10 - 2026/9/2 上午12:23:22",
+      "url": "https://lulluullluuu.github.io/LULU/?report=20260902-001910-xpeq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 1,
+        "avgEnemySize": 7
+      }
+    }
+  ]
+}
