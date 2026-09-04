@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260904-235413-wytv",
+      "title": "J A Z Z Z Z Z",
+      "commanders": [
+        "J A Z Z Z Z Z"
+      ],
+      "guild": {
+        "id": "48B067A2-21A7-4858-8007-4ECA99798EBF",
+        "name": "Wolves Of",
+        "tag": "ODIN"
+      },
+      "dateStart": "2026-09-04T15:54:13.000Z",
+      "dateEnd": "2026-09-04T16:27:05.915Z",
+      "dateLabel": "2026/9/4 下午11:54:13 - 2026/9/5 上午12:27:05",
+      "url": "https://lulluullluuu.github.io/LULU/?report=20260904-235413-wytv",
+      "summary": {
+        "borderlandsPct": 0.07142857142857142,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260902-001910-xpeq",
       "title": "Unknown Commander",
       "commanders": [],
