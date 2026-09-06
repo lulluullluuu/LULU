@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260906-212029-e52i",
+      "title": "Sêxy Riddle",
+      "commanders": [
+        "Sêxy Riddle"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-09-06T13:20:29.000Z",
+      "dateEnd": "2026-09-06T13:45:25.244Z",
+      "dateLabel": "2026/9/6 下午9:20:29 - 2026/9/6 下午9:45:25",
+      "url": "https://lulluullluuu.github.io/LULU/?report=20260906-212029-e52i",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 47,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260906-212029-iz8y",
       "title": "Sêxy Riddle",
       "commanders": [
