@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260906-092356-5ed7",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-09-06T01:23:56.000Z",
+      "dateEnd": "2026-09-06T01:44:46.124Z",
+      "dateLabel": "2026/9/6 上午9:23:56 - 2026/9/6 上午9:44:46",
+      "url": "https://lulluullluuu.github.io/LULU/?report=20260906-092356-5ed7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 63,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260905-102448-6q3e",
       "title": "Asharom",
       "commanders": [
