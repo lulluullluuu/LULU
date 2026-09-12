@@ -4,6 +4,45 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260912-204431-0y6l",
+      "title": "Dinyosa, Kryskàa",
+      "commanders": [
+        "Dinyosa",
+        "Kryskàa"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-12T12:44:31.000Z",
+      "dateEnd": "2026-09-12T13:53:45.249Z",
+      "dateLabel": "2026/9/12 下午8:44:31 - 2026/9/12 下午9:53:45",
+      "url": "https://lulluullluuu.github.io/LULU/?report=20260912-204431-0y6l",
+      "summary": {
+        "borderlandsPct": 0.5909090909090909,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260912-152243-gy82",
       "title": "Incôgnïto",
       "commanders": [
