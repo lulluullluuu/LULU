@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260912-152243-gy82",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "51E25755-67E3-E311-BB46-80C16E7C6D65",
+        "name": "Juang Number Ten",
+        "tag": "JNT"
+      },
+      "dateStart": "2026-09-12T07:22:43.000Z",
+      "dateEnd": "2026-09-12T08:10:27.444Z",
+      "dateLabel": "2026/9/12 下午3:22:43 - 2026/9/12 下午4:10:27",
+      "url": "https://lulluullluuu.github.io/LULU/?report=20260912-152243-gy82",
+      "summary": {
+        "borderlandsPct": 0.19230769230769232,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260912-100731-u2fx",
       "title": "Asharom",
       "commanders": [
