@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260912-100731-u2fx",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-09-12T02:07:31.000Z",
+      "dateEnd": "2026-09-12T02:43:46.346Z",
+      "dateLabel": "2026/9/12 上午10:07:31 - 2026/9/12 上午10:43:46",
+      "url": "https://lulluullluuu.github.io/LULU/?report=20260912-100731-u2fx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260911-214032-spa1",
       "title": "Riddle Returns",
       "commanders": [
