@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20261004-204229-fwsf",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-10-04T12:42:29.000Z",
+      "dateEnd": "2026-10-04T13:25:54.531Z",
+      "dateLabel": "2026/10/4 下午8:42:29 - 2026/10/4 下午9:25:54",
+      "url": "https://lulluullluuu.github.io/LULU/?report=20261004-204229-fwsf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 44,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260912-204431-0y6l",
       "title": "Dinyosa, Kryskàa",
       "commanders": [
